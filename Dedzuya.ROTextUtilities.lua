@@ -1,5 +1,5 @@
 script_name = "RO Text Utilities"
-script_description = "A bunch of functions for romanian languages. Functionalities: changes the wrong diacritics with the right ones; changes '--' to '—'."
+script_description = "A bunch of functions for Romanian language. Functionalities: changes the wrong diacritics with the right ones; changes '--' to '—'."
 script_author = "KazuyaShuu"
 script_version = "1.0.1"
 
